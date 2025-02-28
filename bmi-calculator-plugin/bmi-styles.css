@@ -1,0 +1,31 @@
+.bmi-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(128, 53, 0);
+}
+
+.bmi-container input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #eedeb1;
+    border-radius: 5px;
+}
+
+#calculate-bmi {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#bmi-result {
+    font-size: 18px;
+    margin-top: 15px;
+}
